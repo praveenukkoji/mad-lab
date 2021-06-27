@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignIn SignUp</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_to_home_acitivity">Welcome To Home Acitivity</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_acoount">Already have account ?</string>
+    <string name="create_account">Create a account ?</string>
+    <string name="remember_me">Remember Me</string>
+</resources>
