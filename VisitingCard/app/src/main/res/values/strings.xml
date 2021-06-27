@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="praveen_ukkoji_inc">Praveen Ukkoji Inc.</string>
+    <string name="todo">TODO</string>
+    <string name="usn_2jr18cs051">USN: 2JR18CS051</string>
+    <string name="name_praveen_ukkoji">Name: Praveen Ukkoji</string>
+    <string name="gender_male">Gender: Male</string>
+    <string name="email_praveenukkoji_gmail_com">Email: praveenukkoji@gmail.com</string>
+    <string name="mobile_no_9686391577">Mobile no: 9686391577</string>
+</resources>
