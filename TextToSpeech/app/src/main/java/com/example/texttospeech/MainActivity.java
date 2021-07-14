@@ -47,12 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 String text = enteredValue.getText().toString();
 
                 textToSpeech.speak(text,TextToSpeech.QUEUE_FLUSH,null);
-
             }
         });
-
-
-
-
     }
 }
