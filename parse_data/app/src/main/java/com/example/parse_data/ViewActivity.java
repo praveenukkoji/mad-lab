@@ -141,9 +141,6 @@ public class ViewActivity extends AppCompatActivity {
                 if(c.getNodeType() == Node.ELEMENT_NODE){
                     Element city = (Element) c;
 
-                    // String id = city.getAttribute("id");
-                    // Log.e("data", "parseXML: "+id );
-
                     NodeList cityDetailList = city.getChildNodes();
 
                     for(int j=0;j<cityDetailList.getLength();j++) {
